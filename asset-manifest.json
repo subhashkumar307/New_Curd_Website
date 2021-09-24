@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/New_Curd_Website/static/css/main.8964d174.chunk.css",
+    "main.js": "/New_Curd_Website/static/js/main.7873ad5e.chunk.js",
+    "main.js.map": "/New_Curd_Website/static/js/main.7873ad5e.chunk.js.map",
+    "runtime-main.js": "/New_Curd_Website/static/js/runtime-main.b9b3c8a2.js",
+    "runtime-main.js.map": "/New_Curd_Website/static/js/runtime-main.b9b3c8a2.js.map",
+    "static/js/2.a6df39ab.chunk.js": "/New_Curd_Website/static/js/2.a6df39ab.chunk.js",
+    "static/js/2.a6df39ab.chunk.js.map": "/New_Curd_Website/static/js/2.a6df39ab.chunk.js.map",
+    "index.html": "/New_Curd_Website/index.html",
+    "static/css/main.8964d174.chunk.css.map": "/New_Curd_Website/static/css/main.8964d174.chunk.css.map",
+    "static/js/2.a6df39ab.chunk.js.LICENSE.txt": "/New_Curd_Website/static/js/2.a6df39ab.chunk.js.LICENSE.txt",
+    "static/media/Management5.6c733c2c.jpg": "/New_Curd_Website/static/media/Management5.6c733c2c.jpg",
+    "static/media/Management7.521b9d42.jpg": "/New_Curd_Website/static/media/Management7.521b9d42.jpg",
+    "static/media/NotFound.bb1d5b46.jpg": "/New_Curd_Website/static/media/NotFound.bb1d5b46.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9b3c8a2.js",
+    "static/js/2.a6df39ab.chunk.js",
+    "static/css/main.8964d174.chunk.css",
+    "static/js/main.7873ad5e.chunk.js"
+  ]
+}
